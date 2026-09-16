@@ -1,0 +1,41 @@
+{
+  "id": 80,
+  "category": "pc-utility",
+  "slug": "battery-session-report",
+  "target": "Windows laptops",
+  "appid": null,
+  "summaryRu": "Анализ пользовательских отчетов батареи без изменения прошивки и лимитов зарядки.",
+  "features": [
+    "Battery report import",
+    "Capacity trend chart",
+    "Workload context annotations"
+  ],
+  "title": "ChargeChronicle — Windows laptops — Runtime",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "general-platform-context",
+      "sourceId": "windows-performance",
+      "detail": "General Windows performance context, not endorsement or validation of this proposed utility."
+    }
+  ],
+  "brand": "ChargeChronicle",
+  "repositoryName": "chargechronicle-battery-session-report-runtime",
+  "githubTopics": [
+    "windows-laptops",
+    "battery-report",
+    "battery-capacity",
+    "workload-notes",
+    "windows",
+    "pc-diagnostics",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "runtime"
+}
